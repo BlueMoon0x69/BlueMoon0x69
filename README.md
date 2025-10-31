@@ -12,7 +12,7 @@
     alt="⭐ Stars on my repos or treats 🍬"
   />
 
-  <h1>🕷️ Happy Halloween 🎃</h1>
+  <h1>👻 Happy Halloween 🎃</h1>
 
   <!-- Dark badges -->
   <a href="https://github.com/BlueMoon0x69">
