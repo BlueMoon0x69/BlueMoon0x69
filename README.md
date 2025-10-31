@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="assets/JackOLantern.jpg" alt="Happy Halloween" width="100%" />
+  <img src="JackOLantern.jpg" alt="Happy Halloween" width="100%" />
 
   <!-- Animated orange text -->
   <br/>
