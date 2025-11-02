@@ -1,4 +1,4 @@
-<!-- 🎃 Halloween Dark Mode – Profile README by Zen -->
+<!-- 🎃 Halloween Dark Mode – Profile README by BlueMoon -->
 
 <div align="center">
 
