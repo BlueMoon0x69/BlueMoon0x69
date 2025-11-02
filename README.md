@@ -1,4 +1,4 @@
-<!-- 🎃 Happy Halloween – Profile README by BlueMoon -->
+<!-- 🎃 Happy Halloween 2025 – Profile README by BlueMoon -->
 
 <div align="center">
 
