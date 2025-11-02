@@ -1,4 +1,4 @@
-<!-- 🎃 Halloween Dark Mode – Profile README by BlueMoon -->
+<!-- 🎃 Happy Halloween – Profile README by BlueMoon -->
 
 <div align="center">
 
